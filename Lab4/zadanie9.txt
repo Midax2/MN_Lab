@@ -1,0 +1,16 @@
+Wyniki dla punktu startowego x0 = 6:
+Miejsce zerowe: 6.2831853072
+Wartość funkcji w miejscu zerowym: -0.0000000000
+Kod wyjścia: 1
+Dodatkowe informacje: Zero found in the interval [5.66059, 6.33941]
+Resultat: Poprawnie znaleziono miejce zerowe dla punktu startowego x0 = 6 i wynosi ono x = 6.2831853072
+
+Wyniki dla punktu startowego x0 = 4.5:
+Miejsce zerowe: 4.7123889804
+Wartość funkcji w miejscu zerowym: 510190062007397.1250000000
+Kod wyjścia: -5
+Dodatkowe informacje: Current point x may be near a singular point. The interval [4.24544, 4.75456] 
+reduced to the requested tolerance and the function changes sign in the interval,
+but f(x) increased in magnitude as the interval reduced.
+Resultat: Algorytm nie dał rady znaleźć miejsce zerowe dla punktu startowego x0 = 4.5, 
+ponieważ podany punkt może być w pobliżu punktu osobliwego funkcji, co uniemoźliwia poprawne obliczenie miejca zerowego
